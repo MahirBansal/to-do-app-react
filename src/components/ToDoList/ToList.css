@@ -1,0 +1,11 @@
+.toDo-List {
+    list-style: none;
+    margin: 2rem;
+    padding: 0%;
+}
+
+.toDo-List li{
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
